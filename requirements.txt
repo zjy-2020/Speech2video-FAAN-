@@ -1,0 +1,12 @@
+python=3.8
+torch>=1.8.1
+torchvision=0.2.2
+torchaudio=0.8.1
+scikit-image=0.16.2
+numpy=1.19.2
+scipy=1.6.2
+matplotlib=3.3.4
+opencv-python=4.5.1.48
+tensorboard==1.14.0
+tqdm=4.59.0
+pytorch-fid=0.2.0
